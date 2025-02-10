@@ -1,1 +1,3 @@
 # GenAI
+
+GenAI assignments
