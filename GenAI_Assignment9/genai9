@@ -1,1 +1,9 @@
+Assignment 9 - Use an AI-based tool to generate simple video animations.
 
+Stable Diffusion with AnimateDiff
+
+Step 1: Install Dependencies
+Step 2: Load Stable Diffusion Model - Use Stable Diffusion from diffusers library.
+Step 3: Generate Frames - Generate image frames for animation.
+Step 4: Convert Frames to Video - Use imageio to convert frames into a video.
+Step 5: Download the Video - download your video from Colab.
